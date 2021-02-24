@@ -1,4 +1,28 @@
-<!-- Source: The template of this README file is from https://github.com/othneildrew/Best-README-Template -->
+<!-- 
+The template of this README file is from https://github.com/othneildrew/Best-README-Template 
+
+MIT License
+
+Copyright (c) 2018 Othneil Drew
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+-->
 
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -201,16 +225,16 @@ Project Link: [https://github.com/zixuanzhang98/neo4j-data-processing](https://g
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/zixuanzhang98/neo4j-data-processing.svg?style=for-the-badge
 [contributors-url]: https://github.com/zixuanzhang98/neo4j-data-processing/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/zixuanzhang98/neo4j-data-processing.svg?style=for-the-badge
 [forks-url]: https://github.com/zixuanzhang98/neo4j-data-processing/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/zixuanzhang98/neo4j-data-processing.svg?style=for-the-badge
 [stars-url]: https://github.com/zixuanzhang98/neo4j-data-processing/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/zixuanzhang98/neo4j-data-processing.svg?style=for-the-badge
 [issues-url]: https://github.com/zixuanzhang98/neo4j-data-processing/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[license-shield]: https://img.shields.io/github/license/zixuanzhang98/neo4j-data-processing.svg?style=for-the-badge
+[license-url]: https://github.com/zixuanzhang98/neo4j-data-processing/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/zixuanzhang98
 [product-screenshot]: images/screenshot.png
