@@ -72,6 +72,7 @@ SOFTWARE.
         <li><a href="#instructions">Instructions</a></li>
       </ul>
     </li>
+    <li><a href="#contributors">Contributors</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -127,6 +128,14 @@ Use the following instructions to achieve the same database state.
 4. Follow the comment and run the cypher code inside the [load-csv-v2.cypher](cypher/load-csv-v2.cypher) file to import the data into the Neo4j database.
 
 5. Execute cypher queries in the [business-questions-v2.cypher](cypher/business-questions-v2.cypher) file or write your own queries.
+
+## Contributors
+This project is a collective effort of the following members:
+- @Karashan
+- @StrongWeiUMN
+- @LuyaoZhang5380
+- @zixuanzhang98
+
 
 <!-- CONTRIBUTING -->
 ## Contributing
