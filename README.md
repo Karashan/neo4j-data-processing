@@ -45,7 +45,7 @@ SOFTWARE.
     <br />
     <a href="https://github.com/zixuanzhang98/neo4j-data-processing"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/zixuanzhang98/neo4j-data-processing">View Demo</a>
+    <a href="https://youtu.be/wvrD743SXdU">View Demo</a>
     ·
     <a href="https://github.com/zixuanzhang98/neo4j-data-processing/issues">Report Bug</a>
     ·
@@ -91,7 +91,7 @@ We ask questions like:
 - How many directors Christian Bale and Michael Caine worked with?
 - Which actor/actresses does a specific customer probably like the most, who we can recommend to this customer in the future,  based on all the movies he/she rated?
 
-Here's a visual representation of a small fraction of data in the database:
+Here's the [project report](CSCI5751_Project1_Phase3_Avatar.pdf) and a visual representation of a small fraction of data in the database:
 ![Graph Database Visual](img/database.png)
 
 
