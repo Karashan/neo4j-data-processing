@@ -6,8 +6,7 @@ RETURN p
 
 
 MATCH ()-[r:RATE]->(m:Movie {title: 'Avatar'})
-RETURN max(toInteger(r.rating)), min(toInteger(r.rating)),
-avg(toInteger(r.rating))
+RETURN max(toInteger(r.rating)), min(toInteger(r.rating)), avg(toInteger(r.rating))
 
 
 MATCH (a1:Actor {name: 'Christian Bale'})-[:ACTED_IN]->(m1:Movie)<-[:DIRECTED]-(d:Director)-[:DIRECTED]->(m2:Movie)<-[ACTED_IN]-(a2:Actor {name: 'Michael Caine'})
@@ -60,3 +59,7 @@ WHERE NOT(m2 IN movies)
 RETURN m2, m2.IMDb_rating
 ORDER BY m2.IMDb_rating DESC
 LIMIT 1
+
+MATCH p=(a:Actor)-[:ACTED_IN]->(m:Movie)<-[:DIRECTED]-(d:Director)
+RETURN p
+LIMIT 25
